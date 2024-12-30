@@ -1,11 +1,8 @@
-# SillyPack
-
-This server has been retired! Thanks for playing. Follow the instructions below to host the server yourself in its final state.
+# CgenPack
 
 ## Credits
 
-- thanks to @kenziemac130 for the aawesome help with the guide and contributions
-- LICENSING NOTE: TREECAPITATOR.JPG was taken from FurfSky Reborn
+- 
 
 ## Setting up the Client
 
@@ -40,7 +37,7 @@ Install the Launcher if you haven't already
 
 ## Setting up the Server
 
-The server has been retired. Follow these steps to host it yourself.
+Follow these steps to host it yourself.
 
 1. Download the Fabric server jar **0.15.17** for Minecraft version **1.20.1** from either [the Fabric website here](https://fabricmc.net/use/server/) or by curling it:
 
