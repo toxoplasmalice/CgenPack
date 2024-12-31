@@ -31,7 +31,7 @@ Install the Launcher if you haven't already
 
    Use the following URL in the direct download field or download and point to it manually.
 
-   `https://github.com/pauliesnug/cgenpack/releases/download/bootstrap/SillyPackBootstrap.zip`
+   `https://github.com/ChristopherDukes/CgenPack/releases/download/CgenPackBootstrap/CgenPackBootstrap.zip`
 
 2. Launch the game and the mods will be automatically installed and updated every time you launch!
 
