@@ -2,6 +2,6 @@
 /versions
 /logs
 /libraries
-.json
-.properties
-.jar
+*.json
+*.properties
+*.jar
