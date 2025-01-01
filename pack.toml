@@ -1,0 +1,16 @@
+name = "CgenPack"
+author = "Alice"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7a3126277d1f60b306f0f078283b4579581d771d2ca1bdc9da13b299d9593f36"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20.1"]

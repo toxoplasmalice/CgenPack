@@ -1,0 +1,13 @@
+name = "Create Revamped"
+filename = "Create Revamped.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dca2a2ead26105d27827dea0c08487cae49f7fac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5555982
+project-id = 961675

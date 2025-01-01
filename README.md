@@ -31,7 +31,7 @@ Install the Launcher if you haven't already
 
    Use the following URL in the direct download field or download and point to it manually.
 
-   `https://github.com/pauliesnug/cgenpack/releases/download/bootstrap/SillyPackBootstrap.zip`
+   `https://github.com/ChristopherDukes/CgenPack/releases/download/bootstrap/CgenPackBootstrap.zip`
 
 2. Launch the game and the mods will be automatically installed and updated every time you launch!
 
@@ -45,8 +45,7 @@ Follow these steps to host it yourself.
 
 2. Create a working directory with the jarfile and run the launch command, allowing the server to run once, accept the EULA, etc.
 
-   - `java -Xms1G -Xmx8G -jar fabric-server-mc.1.20.1-loader.0.16.9-launcher.1.0.1.jar nogui`
-   - For the duration of this server's existence, it was allocated 12 gigabytes and performance wasn't hindered in normal play with <=10 players.
+   - `java -Xms1G -Xmx32G -jar fabric-server-mc.1.20.1-loader.0.16.9-launcher.1.0.1.jar nogui`
 
 3. Download [the additional server files here](https://drive.google.com/file/d/1fbTbb9NNRRaCvy_ZYnqs5KnYIcVWFuI4/view?usp=sharing) and extract them to the root directory of the server. They include schematics, painting caches, whitelists, and the server settings. Overwrite files that were generated on first startup.
 
