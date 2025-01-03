@@ -33,7 +33,7 @@ Install the Launcher if you haven't already
 
    Use the following URL in the direct download field or download and point to it manually.
 
-   `https://raw.githubusercontent.com/toxoplasmalice/CgenPack/refs/tags/bootstrap/pack.toml`
+   `https://github.com/toxoplasmalice/CgenPack/releases/download/bootstrap/CgenPackBootstrap.zip`
 
 2. Launch the game and the mods will be automatically installed and updated every time you launch!
 
