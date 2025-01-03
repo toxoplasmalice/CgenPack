@@ -33,7 +33,7 @@ Install the Launcher if you haven't already
 
    Use the following URL in the direct download field or download and point to it manually.
 
-   `https://raw.githubusercontent.com/ChristopherDukes/CgenPack/refs/tags/bootstrap/pack.toml`
+   `https://raw.githubusercontent.com/toxoplasmalice/CgenPack/refs/tags/bootstrap/pack.toml`
 
 2. Launch the game and the mods will be automatically installed and updated every time you launch!
 
@@ -55,6 +55,6 @@ Follow these steps to host it yourself.
 
 5. **Important** Download [this jarfile](https://github.com/packwiz/packwiz-installer-bootstrap/releases/tag/v0.0.3) from packwiz and place it in the root directory. Run this command **every time you start up the server** before running the launch command from step 2:
 
-   - `java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/ChristopherDukes/CgenPack/refs/tags/bootstrap/pack.toml`
+   - `java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/toxoplasmalice/CgenPack/refs/tags/bootstrap/pack.toml`
 
 6. Create any startup or maintenance scripts necessary for your usage, and connect with a client. The scripts used are provided in `script`.
