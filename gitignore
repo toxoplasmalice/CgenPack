@@ -1,7 +1,0 @@
-/world
-/versions
-/logs
-/libraries
-*.json
-*.properties
-*.jar
