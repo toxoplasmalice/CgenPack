@@ -1,9 +1,57 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "74dbce3a70ab7968720af1b138b93a2baef8d2c7e6bfa113f58735cfabb7310e"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "45e7071444b687a5540c2bf7006166f00ada1979086a57a8d25d29a0ae36ca58"
+
+[[files]]
+file = "config/estrogen-client.toml"
+hash = "13df1b81a2e509e382f58b47ac2de35ff5d10d65cc26a316f163ca8fedc2701b"
+
+[[files]]
+file = "config/estrogen-common.toml"
+hash = "ce31022559c65a00893b703738cf837ca7fdf3f4be6bea99484eabf3949d0c90"
+
+[[files]]
+file = "config/estrogen-server.toml"
+hash = "40f86bbea589934b53df707de0ba36e2a6dcbdd77344e693b1cafec6baffb916"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
+
+[[files]]
+file = "mods/Create Revamped.zip"
+hash = "c20cbcceba8570fe603d3c4e6f69166c8dc6c541ea88adbfa94fbcb0142fcb9c"
+
+[[files]]
+file = "mods/Estrogen-4.3.1+1.20.1-fabric.jar"
+hash = "9e4ff85a7ebf73ec707ef45533efa4d37766bb8b0d4531a52710d6d0dbd5dec6"
+
+[[files]]
+file = "mods/botarium-fabric-1.20.1-2.3.4.jar"
+hash = "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324"
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "62eee72c3a020fa7e20ddb186d6831b2a8561ab8f1345b0e3bf1d3fa5322ce90"
 metafile = true
+
+[[files]]
+file = "mods/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar"
+hash = "33ec1d696c687e95cded0cffa6d581ac80bc9e416ec6040fcd595ce226d70bfb"
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
@@ -21,6 +69,10 @@ hash = "1a4501cd24c97dfbec04ba0290648fa836f86435494c126428474d119c7f2b1f"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api-0.92.3+1.20.1.jar"
+hash = "6afc625670946c1ef6c77618bf686d893aea6d39ba190d4cdc4b2cd878421b4e"
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
 metafile = true
@@ -31,6 +83,18 @@ hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
 metafile = true
 
 [[files]]
+file = "mods/resourcefullib-fabric-1.20.1-2.1.29.jar"
+hash = "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb"
+
+[[files]]
+file = "mods/trinkets-3.7.2.jar"
+hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
+
+[[files]]
+file = "script/restarter"
+hash = "a4c666edcdacb07503ed99b03d6ababf6e8950a73068b75f1081fc108f65e171"
