@@ -55,6 +55,6 @@ Follow these steps to host it yourself.
 
 5. **Important** Download [this jarfile](https://github.com/packwiz/packwiz-installer-bootstrap/releases/tag/v0.0.3) from packwiz and place it in the root directory. Run this command **every time you start up the server** before running the launch command from step 2:
 
-   - `java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/toxoplasmalice/CgenPack/refs/tags/bootstrap/pack.toml`
+   - `java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/toxoplasmalice/CgenPack/refs/heads/main/pack.toml`
 
 6. Create any startup or maintenance scripts necessary for your usage, and connect with a client. The scripts used are provided in `script`.
