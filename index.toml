@@ -78,6 +78,16 @@ hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "aff1418fc38e909ba58c4ad864cdb8a7850b56dd854b9e20334e0abd0e3610dd"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "93f8eec0fb9b27e8960d60fcf3cdceffc591944f47b1c8c004032eeba5612b95"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
 metafile = true
