@@ -41,6 +41,21 @@ file = "mods/Estrogen-4.3.1+1.20.1-fabric.jar"
 hash = "9e4ff85a7ebf73ec707ef45533efa4d37766bb8b0d4531a52710d6d0dbd5dec6"
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "3c873178937aa124a7b8d7491fe852f5c9f6a301442158a5f433258d52c9fe36"
+metafile = true
+
+[[files]]
 file = "mods/botarium-fabric-1.20.1-2.3.4.jar"
 hash = "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324"
 
@@ -64,6 +79,11 @@ hash = "8accb733ec8d3f51463bd93f6424c3555c16453336d6fadf8fb918220b42488a"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
+metafile = true
+
+[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "1a4501cd24c97dfbec04ba0290648fa836f86435494c126428474d119c7f2b1f"
 metafile = true
@@ -83,6 +103,11 @@ hash = "aff1418fc38e909ba58c4ad864cdb8a7850b56dd854b9e20334e0abd0e3610dd"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c9edc730013becd63a40a3faef1ce77151e5e9f92053f1b8343a21f31db9cea4"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "93f8eec0fb9b27e8960d60fcf3cdceffc591944f47b1c8c004032eeba5612b95"
 metafile = true
@@ -97,12 +122,27 @@ file = "mods/resourcefullib-fabric-1.20.1-2.1.29.jar"
 hash = "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb"
 
 [[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "4c3e112fd51bd798d94aee2d0b2b760273bea50480ba0f607f0277e3a7da068f"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "5c34a5a8eb055b65f1ede0246c688a8f377b73c90e80c21d8bc301c1daf4e40f"
+metafile = true
+
+[[files]]
 file = "mods/trinkets-3.7.2.jar"
 hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
 
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "cd0073cfc7bd2fbc89ddf46fb021d469e93a059ef382d3fedca8f961af3081ee"
 metafile = true
 
 [[files]]
