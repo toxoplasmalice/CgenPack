@@ -51,11 +51,6 @@ hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
 metafile = true
 
 [[files]]
-file = "mods/betternether.pw.toml"
-hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "3c873178937aa124a7b8d7491fe852f5c9f6a301442158a5f433258d52c9fe36"
 metafile = true
@@ -127,23 +122,8 @@ file = "mods/resourcefullib-fabric-1.20.1-2.1.29.jar"
 hash = "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb"
 
 [[files]]
-file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
-hash = "38874a197c53302277a7627a900e4bdbab81d027132bc098bc09d1a7c91b1992"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
-hash = "3a3782b9926abdf259202c95e673e4479f96e5f7e1a968c704f8942c0e1e5d89"
-metafile = true
-
-[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "4c3e112fd51bd798d94aee2d0b2b760273bea50480ba0f607f0277e3a7da068f"
-metafile = true
-
-[[files]]
-file = "mods/the-crop-reaping-mod.pw.toml"
-hash = "1c25eeac5c976cc9547740b4707cbb16a37535b037722f1ef026995be527895c"
 metafile = true
 
 [[files]]
