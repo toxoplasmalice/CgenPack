@@ -51,6 +51,11 @@ hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
 metafile = true
 
 [[files]]
+file = "mods/betternether.pw.toml"
+hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "3c873178937aa124a7b8d7491fe852f5c9f6a301442158a5f433258d52c9fe36"
 metafile = true
@@ -108,6 +113,11 @@ hash = "c9edc730013becd63a40a3faef1ce77151e5e9f92053f1b8343a21f31db9cea4"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "c5b4553ad9250281b03636917cd21c26a0e58aa49d88712dac5750cacdf9cb66"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "93f8eec0fb9b27e8960d60fcf3cdceffc591944f47b1c8c004032eeba5612b95"
 metafile = true
@@ -120,6 +130,21 @@ metafile = true
 [[files]]
 file = "mods/resourcefullib-fabric-1.20.1-2.1.29.jar"
 hash = "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb"
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "45a0be935bcca91138996460610bd84312729d6ae00648fbb7ea332bd23bb437"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
+hash = "38874a197c53302277a7627a900e4bdbab81d027132bc098bc09d1a7c91b1992"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
+hash = "3a3782b9926abdf259202c95e673e4479f96e5f7e1a968c704f8942c0e1e5d89"
+metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
