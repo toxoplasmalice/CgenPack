@@ -1,0 +1,13 @@
+name = "Crop Harvester"
+filename = "The Crop Reaping Mod-1.20.1-Fabric-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7863b0ecf67c78b62c602508024c5f5d88e54d89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5297165
+project-id = 634442
