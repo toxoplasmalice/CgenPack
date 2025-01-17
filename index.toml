@@ -90,6 +90,16 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "fd2c9cdc0083b93038ce74132c66078e8e223722c4fae902ba4bfef28c37ed71"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar"
 hash = "33ec1d696c687e95cded0cffa6d581ac80bc9e416ec6040fcd595ce226d70bfb"
 
@@ -101,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/create-revamped.pw.toml"
 hash = "8accb733ec8d3f51463bd93f6424c3555c16453336d6fadf8fb918220b42488a"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "916c17614ec51da73e173b7249118b473e479c370a48378bc7f91eb5e5abfa9d"
 metafile = true
 
 [[files]]
