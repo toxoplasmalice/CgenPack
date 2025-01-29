@@ -1,0 +1,13 @@
+name = "Rotten To Leather"
+filename = "rotten-to-leather-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FabptPkL/versions/pask2dEM/rotten-to-leather-3.0.0.jar"
+hash-format = "sha512"
+hash = "b67123ee373e011f36f6a8f4502654e7d7fcf1a4fb76f7e0017eae90347ee910f4df99bbfd163620a1958b0c64465afa4d12d60d0ee5bbcf1d5e43696471b4d9"
+
+[update]
+[update.modrinth]
+mod-id = "FabptPkL"
+version = "pask2dEM"
