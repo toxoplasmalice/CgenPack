@@ -242,8 +242,18 @@ hash = "7814b21e543c90551d002aeb01ce09fa475f21e9189f45405ba8a809a3a73a78"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "61b303ae5b7ff238c9ac2528617d80c2ea506268f894d72d0b444c4c2cc3da50"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
 hash = "97fc6020504bf1eb7c0a7d50ab071b6bc6cdab02c11ac55ac7947ae62918f553"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
+hash = "5c4c324d7fe13209d40a41f7a630a29a8dba786ce3e5c59a3f42b385a5eb84e2"
 metafile = true
 
 [[files]]
