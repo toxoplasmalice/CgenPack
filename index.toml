@@ -90,6 +90,11 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "ac7153ccd646c14f801c2fe70c50eec5633db769ff1837f5ae00f45ff78a16e4"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
 metafile = true
@@ -116,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/create-structures.pw.toml"
 hash = "916c17614ec51da73e173b7249118b473e479c370a48378bc7f91eb5e5abfa9d"
+metafile = true
+
+[[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "4dbfc7d3ec58848f2978856ef4069e96c4ac0eb303d2a534085d681f6ab4cef6"
 metafile = true
 
 [[files]]
