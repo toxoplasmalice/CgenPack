@@ -114,6 +114,11 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
+metafile = true
+
+[[files]]
 file = "mods/create-revamped.pw.toml"
 hash = "8accb733ec8d3f51463bd93f6424c3555c16453336d6fadf8fb918220b42488a"
 metafile = true
