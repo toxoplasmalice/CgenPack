@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "ac7153ccd646c14f801c2fe70c50eec5633db769ff1837f5ae00f45ff78a16e4"
+hash = "fb3d6463ab07baa3cc0e0d6cfacbcaaeec3c32ef495b9c7762042897c4e35fc3"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "aff1418fc38e909ba58c4ad864cdb8a7850b56dd854b9e20334e0abd0e3610dd"
+hash = "621cb8148e2a057d6a44601ab329877e5990ce8939dba26f8198558aec942c0c"
 metafile = true
 
 [[files]]
@@ -175,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "c9edc730013becd63a40a3faef1ce77151e5e9f92053f1b8343a21f31db9cea4"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
 metafile = true
 
 [[files]]
@@ -193,6 +198,11 @@ hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "fd806713c4bd32080e12e65c012ad93de6a6fae53484fa13a72603c39f3eae63"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "9189950e68af278daaef951d8ef23b06f567f27d8c9f50df898ac0117d35c93c"
 metafile = true
@@ -205,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "f126685bcfa9fa008a2bbce21d25c1efa3cd82f32d2e6e473cee22a128d2c7c8"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
 metafile = true
 
 [[files]]
@@ -229,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
@@ -288,11 +303,6 @@ hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "54c66098a6b5d089302514f1dcff7c694896d1f60dca765f256878962919e88b"
 metafile = true
 
 [[files]]
