@@ -1,0 +1,13 @@
+name = "Copper Recycling"
+filename = "copper-recycling-2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fuupShGh/versions/VMJBEa0w/copper-recycling-2.3.jar"
+hash-format = "sha512"
+hash = "b160ed9a28d3f7c4de5b147b48ec8d7f48f6a1219d6117f2b515d2e1a4dc41b291a29e800ed0a5fbcdcc89382bf956ae8699e9dd36cf784893a45bf4a74b26c1"
+
+[update]
+[update.modrinth]
+mod-id = "fuupShGh"
+version = "VMJBEa0w"

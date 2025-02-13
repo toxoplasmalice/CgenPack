@@ -90,6 +90,11 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
+file = "mods/copper-recycling.pw.toml"
+hash = "5527d37bf90b94b16dcdbfce6dd51c18ec9f1e647fa0b3001567acaaf2785eee"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "fb3d6463ab07baa3cc0e0d6cfacbcaaeec3c32ef495b9c7762042897c4e35fc3"
 metafile = true
@@ -169,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "621cb8148e2a057d6a44601ab329877e5990ce8939dba26f8198558aec942c0c"
+hash = "ec4fb5f9327cb17c8133d6c09fe33163aed8f326a6d99a727166ddcd55b526b8"
 metafile = true
 
 [[files]]
